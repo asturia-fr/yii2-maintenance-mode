@@ -1,10 +1,10 @@
 {
-    "name": "sacara/yii2-maintenance-mode",
+    "name": "n1k88/yii2-maintenance-mode",
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "description": "Maintenance mode for Yii2 framework",
     "keywords": ["yii2", "maintenance", "mode"],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "yiisoft/yii2": "2.*"
     },
@@ -16,7 +16,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "sacara\\maintenance\\": ""
+            "n1k88\\maintenance\\": ""
         }
     }
 }
