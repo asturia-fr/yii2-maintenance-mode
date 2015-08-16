@@ -6,7 +6,7 @@ Installation
 
 Add to the require section of your `composer.json` file:
 ```
-"sacara/yii2-maintenance-mode": "*"
+"n1k88/yii2-maintenance-mode": "*"
 ```
 
 Add to your config file:
@@ -15,7 +15,7 @@ Add to your config file:
    ...
    'modules' => [
      'maintenance' => [
-        'class' => 'sacara\maintenance\Module',
+        'class' => 'n1k88\maintenance\Module',
         // optional
         'maintenanceFileOn' => 'maintenance.on', // default is `maintenance.on`
      ],
