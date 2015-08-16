@@ -2,9 +2,11 @@
 /**
  * Yii2-maintenance module.
  *
- * @author Nico Schefuﬂ <redirectn1k@gmail.com>
+ * @author n1k88 (Nico Schefuﬂ) <redirectn1k@gmail.com>
+ * @link https://github.com/n1k88/yii2-maintenance-mode
+ * @version 1.1.2
  */
-namespace sacara\maintenance;
+namespace n1k88\maintenance;
 
 class Module extends \yii\base\Module
 {
